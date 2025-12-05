@@ -11,7 +11,7 @@ export default function AboutPage() {
       />
 
       <div className="max-w-4xl mx-auto px-8 py-12">
-        <p>안녕하세요</p>
+        <p>안녕하세요@@@@</p>
         
         <div className="bg-white rounded-lg shadow-md p-6 mb-6">
           <h2 className="text-2xl font-semibold mb-4 text-blue-800">What is Global Warming?</h2>
